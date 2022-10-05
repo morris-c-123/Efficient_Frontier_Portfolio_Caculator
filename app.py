@@ -314,5 +314,5 @@ def efficient_frontier_maker(
 
 
 efficient_frontier_maker(
-    target_stocks=target_stocks_2,
+    target_stocks=target_stocks,
     start="2012/10/01", investor_expected_return=0.2)
